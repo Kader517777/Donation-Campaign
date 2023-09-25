@@ -4,6 +4,8 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
     "./src/component/Navber/*.{js,ts,jsx,tsx}",
+    "./src/component/Catagories/*.{js,ts,jsx,tsx}",
+    "./src/component/Catagory/*.{js,ts,jsx,tsx}",
   ],
   theme: {
     extend: {},

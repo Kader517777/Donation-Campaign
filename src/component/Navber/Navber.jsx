@@ -42,7 +42,7 @@ const Navber = () => {
             <div className="navbar-end hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
                     <li><NavLink
-                        to="/home"
+                        to="/"
                         className={({ isActive }) =>
                             isActive ? " text-[#FF444A] text-2xl font-bold underline-offset-2	underline underline-offset-2" : "text-2xl font-bold"
                         }
