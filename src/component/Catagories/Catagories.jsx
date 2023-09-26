@@ -4,7 +4,7 @@ import Catagory from '../Catagory/Catagory';
 
 const Catagories = ({ catagories }) => {
     return (
-        <div className=' container mx-auto grid grid-cols-4 my-6 gap-10'>
+        <div className=' container md:mx-auto grid md:grid-cols-2 lg:grid-cols-4 mx-4  md:my-6  md:gap-10'>
             {catagories?.map((catagory) => <Catagory key={catagory.id} catagory={catagory}></Catagory>)}
         </div>
     );

@@ -1,110 +1,134 @@
 [
     {
         "id": 100001,
-        "title": "Clean water for children",
+        "title": "Nurturing Body, Mind, and Soul",
         "image_url": "https://i.ibb.co/phZ7Jp2/Rectangle-4284.png",
         "Category": "Health",
         "category_bg": "#0052FF33",
         "card_bg": "#0052FF26",
-        "t_b_color": "#0052FF"
+        "t_b_color": "#0052FF",
+        "description": "Explore a comprehensive approach to health and wellness, encompassing physical, mental, and spiritual well-being, to achieve a balanced and fulfilling life.",
+        "price": 8500
     },
     {
         "id": 100002,
-        "title": "Good education",
+        "title": "Approaches to Education",
         "image_url": "https://i.ibb.co/nQD5C3f/Rectangle-4287-1.png",
         "Category": "Education",
         "category_bg": "#FF443326",
         "card_bg": "#FF442626",
-        "t_b_color": "#FF444A"
+        "t_b_color": "#FF444A",
+        "description": " Explore cutting-edge methods and tools revolutionizing the education landscape, from AI-driven personalized learning to immersive virtual classrooms.",
+        "price": 1230
     },
     {
         "id": 100003,
-        "title": "Used Clothing Drive",
+        "title": "Trends in Contemporary Clothing",
         "image_url": "https://i.ibb.co/C6zXHwg/Clothing.png",
         "Category": "Clothing",
         "category_bg": "#79C23333",
         "card_bg": "#79C23F26",
-        "t_b_color": "#79C23F"
+        "t_b_color": "#79C23F",
+        "description": "Explore the latest styles and trends in clothing, from timeless classics to cutting-edge designs, and discover how to curate a wardrobe that reflects your unique sense of style.",
+        "price": 69500
     },
     {
         "id": 100004,
-        "title": "Better Food for Everyone",
+        "title": "Understanding Food Systems",
         "image_url": "https://i.ibb.co/vhc255c/Rectangle-4287-2.png",
         "Category": "Food",
         "category_bg": "#F8714733",
         "card_bg": "#F8714726",
-        "t_b_color": "#F87147"
+        "t_b_color": "#F87147",
+        "description": "Delve into the intricacies of sustainable agriculture, ethical sourcing, and responsible consumption, gaining insights into how our food choices impact the environment and communities worldwide.",
+        "price": 1500
     },
     {
         "id": 100005,
-        "title": "Better Food for Everyone",
+        "title": "Nourishing Your Body Mindfully",
         "image_url": "https://i.ibb.co/vhc255c/Rectangle-4287-2.png",
         "Category": "Food",
         "category_bg": "#F8714733",
         "card_bg": "#F8714726",
-        "t_b_color": "#F87147"
+        "t_b_color": "#F87147",
+        "description": "Learn about the science of nutrition and how to make mindful food choices that support your health and well-being, creating a foundation for a balanced and vibrant life.",
+        "price": 6500
     },
     {
         "id": 100006,
-        "title": "Used Clothing Drive",
+        "title": "Ethical Choices for Wardrobe",
         "image_url": "https://i.ibb.co/C6zXHwg/Clothing.png",
         "Category": "Clothing",
         "category_bg": "#79C23333",
         "card_bg": "#79C23F26",
-        "t_b_color": "#79C23F"
+        "t_b_color": "#79C23F",
+        "description": "Dive into the world of eco-conscious clothing choices, learning about sustainable materials, ethical production methods, and how to make environmentally-friendly fashion decisions.",
+        "price": 7500
     },
     {
         "id": 100007,
-        "title": "Good education",
+        "title": "Cultivating Curiosity Growth",
         "image_url": "https://i.ibb.co/nQD5C3f/Rectangle-4287-1.png",
         "Category": "Education",
         "category_bg": "#FF443326",
         "card_bg": "#FF442626",
-        "t_b_color": "#FF444A"
+        "t_b_color": "#FF444A",
+        "description": " Dive into strategies and resources that foster a culture of lifelong learning, equipping individuals with the skills and knowledge needed for success in a rapidly evolving world.",
+        "price": 2500
     },
     {
         "id": 100008,
-        "title": "Clean water for children",
+        "title": "Your Journey to a Healthier You",
         "image_url": "https://i.ibb.co/phZ7Jp2/Rectangle-4284.png",
         "Category": "Health",
         "category_bg": "#0052FF33",
         "card_bg": "#0052FF26",
-        "t_b_color": "#0052FF"
+        "t_b_color": "#0052FF",
+        "description": "Dive into the essentials of nutrition and wellness, learning how to make informed dietary choices and adopt sustainable lifestyle practices for optimal health and vitality.",
+        "price": 2500
     },
     {
         "id": 100009,
-        "title": "Clean water for children",
+        "title": "Cultivating Resilience",
         "image_url": "https://i.ibb.co/phZ7Jp2/Rectangle-4284.png",
         "Category": "Health",
         "category_bg": "#0052FF33",
         "card_bg": "#0052FF26",
-        "t_b_color": "#0052FF"
+        "t_b_color": "#0052FF",
+        "description": "Discover strategies and techniques to manage stress, anxiety, and foster mental well-being, empowering you to lead a fulfilling and emotionally resilient life.",
+        "price": 6500
     },
     {
         "id": 100010,
-        "title": "Good education",
+        "title": "Building Bridges for Every Learner",
         "image_url": "https://i.ibb.co/nQD5C3f/Rectangle-4287-1.png",
         "Category": "Education",
         "category_bg": "#FF443326",
         "card_bg": "#FF442626",
-        "t_b_color": "#FF444A"
+        "t_b_color": "#FF444A",
+        "description": "Discover inclusive practices that promote diversity, equity, and accessibility in education, ensuring that every student has the opportunity to thrive and reach their full potential.",
+        "price": 2500
     },
     {
         "id": 100011,
-        "title": "Used Clothing Drive",
+        "title": "Building a Versatile Wardrobe",
         "image_url": "https://i.ibb.co/C6zXHwg/Clothing.png",
         "Category": "Clothing",
         "category_bg": "#79C23333",
         "card_bg": "#79C23F26",
-        "t_b_color": "#79C23F"
+        "t_b_color": "#79C23F",
+        "description": "Discover the key pieces every wardrobe should have, and learn how to mix and match them to create a wide range of stylish outfits for any occasion.",
+        "price": 5500
     },
     {
         "id": 100012,
-        "title": "Better Food for Everyone",
+        "title": "Exploring Global Flavors",
         "image_url": "https://i.ibb.co/vhc255c/Rectangle-4287-2.png",
         "Category": "Food",
         "category_bg": "#F8714733",
         "card_bg": "#F8714726",
-        "t_b_color": "#F87147"
+        "t_b_color": "#F87147",
+        "description": "Embark on a gastronomic journey around the world, discovering diverse cuisines, traditional recipes, and the cultural stories behind them.",
+        "price": 9500
     }
 ]

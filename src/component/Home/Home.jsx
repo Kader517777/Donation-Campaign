@@ -13,9 +13,9 @@ const Home = () => {
 
     }, [])
 
-    const handleSearch = (id) => {
-        if (id) {
-            const searchCatagory = catagories.filter(item => item.Category === id);
+    const handleSearch = (catagoryName) => {
+        if (catagoryName) {
+            const searchCatagory = catagories.filter(item => item.Category === catagoryName);
             setCatagories(searchCatagory);
         }
         else {

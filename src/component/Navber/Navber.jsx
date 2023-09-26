@@ -12,7 +12,7 @@ const Navber = () => {
                     </label>
                     <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
                         <li><NavLink
-                            to="/home"
+                            to="/"
                             className={({ isActive }) =>
                                 isActive ? " text-[#FF444A] text-2xl font-bold underline-offset-2	underline underline-offset-2" : "text-2xl font-bold text-[#0B0B0B]"
                             }

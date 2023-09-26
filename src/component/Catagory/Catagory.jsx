@@ -7,7 +7,7 @@ const Catagory = ({ catagory }) => {
 
     return (
         <Link to={`/home/${catagory.id}`}>
-            <div className={`card card-compact shadow-xl`} style={{ background: `${catagory.card_bg}` }}>
+            <div className={`card card-compact shadow-xl my-3 md:my-0`} style={{ background: `${catagory.card_bg}` }}>
                 <figure><img className='w-full h-[220px]' src={catagory.image_url} /></figure>
                 <div className="p-5">
                     <p className=' my-3 '> <span className='text-sm font-medium px-3 py-2 my-3 rounded-md' style={{
