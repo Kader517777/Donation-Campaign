@@ -3,14 +3,16 @@ import { Cell, Pie, PieChart, ResponsiveContainer } from "recharts";
 
 
 const Statistics = () => {
-    const getLocalData = JSON.parse(localStorage.getItem('catagories'));
+    let getLocalData = JSON.parse(localStorage.getItem('catagories'));
+    if (!getLocalData) {
+        getLocalData = [];
+    }
     const localDataLenth = getLocalData.length;
 
     const donationParsent = (localDataLenth * 100) / 12;
     const totaldonationParsent = 100 - donationParsent;
 
-    const donation = parseFloat(donationParsent).toFixed(1);
-    const totaldonation = parseFloat(totaldonationParsent).toFixed(1);
+
 
 
     const data = [
@@ -18,7 +20,7 @@ const Statistics = () => {
         { name: 'Group B', value: totaldonationParsent },
     ];
 
-    const COLORS = ['#00C49F', '#FF444A',];
+    const COLORS = ['#00C49F', '#FF444A'];
 
     const RADIAN = Math.PI / 180;
 

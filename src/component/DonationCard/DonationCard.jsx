@@ -2,7 +2,8 @@
 import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
 const DonationCard = ({ catagory }) => {
-    console.log(catagory);
+
+
     return (
         <div className="card card-side bg-base-100 shadow-xl" style={{
             backgroundColor: `${catagory.card_bg}`
