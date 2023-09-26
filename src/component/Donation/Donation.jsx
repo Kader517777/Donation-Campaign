@@ -15,7 +15,7 @@ const Donation = () => {
     return (
         <div>
             <div>
-                <div className=" container mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 my-8">
+                <div className=" lg:container mx-5 lg:mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 my-8">
                     {isShow ?
                         getLocalData?.map(catagory => <DonationCard key={catagory.id} catagory={catagory}></DonationCard>)
 
